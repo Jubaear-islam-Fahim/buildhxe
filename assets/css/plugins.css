@@ -1,0 +1,50 @@
+/* ============================================================
+
+ Theme Name: Buildhex HTML Template
+ Theme URI: http://
+ Description: Buildhex Construction/Renovation/Interior HTML Template
+ Author: Rifat
+ Author URI: http://thesoftking.com/
+ Version: 1.0 
+
+============================================================== */
+
+/* =============================================================
+			[ All Css Plugins & Helper Classes File ]
+================================================================*/
+ 
+/* == fontawesome == */
+@import url("plugins/fontawesome-all.css"); 
+
+/* == normalize == */
+@import url("plugins/normalize.css");
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == magnific popup == */
+@import url("plugins/magnific-popup.css");
+
+/* == swiper carousel == */
+@import url("plugins/owl.carousel.min.css"); 
+@import url("plugins/owl.theme.default.min.css"); 
+
+/* == animate Headline == */
+@import url("plugins/animate.min.css");    
+
+/* == animate Headline == */
+@import url("plugins/woco-accordion.min.css");    
+
+/* == preloader == */
+@import url("plugins/preloader.css");
+/* == accordion == */
+@import url("plugins/reset-style.css");
+
+/* == hover navbar == */
+@import url("plugins/bootstrap-4-hover-navbar.css");  
+
+/* == hover == */
+@import url("plugins/hover-min.css");  
+
+/* == helper classes == */
+@import url("plugins/helper.css");
